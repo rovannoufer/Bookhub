@@ -1,6 +1,6 @@
 import React , { useState }from 'react'
 import { Link } from 'react-router-dom'
-import './css/Header.css'
+import './css/styles.css'
 import { HiOutlineMenuAlt3 } from 'react-icons/hi' 
 
 export const Navbar = () => {
